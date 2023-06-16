@@ -4,3 +4,4 @@ The repo QA-docs contains examples of test documentation, some snippets in Pytho
 - bug reports for a web-site [(link)](https://github.com/users/tanyashipunova/projects/1?pane=issue&itemId=26879701)
 - SQL snippet [(link)](https://github.com/tanyashipunova/QA-docs/blob/main/task%20in%20sql%20example.sql)
 - Python snippet [(link)](https://github.com/tanyashipunova/QA-docs/blob/main/task%20in%20python%20example.py)
+- стратегии тестирования нового облачного функционала и проектирование автотестов API [(link)](https://github.com/tanyashipunova/QA-docs/tree/main/qacc2023)
