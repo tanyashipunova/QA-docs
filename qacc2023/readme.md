@@ -1,7 +1,7 @@
 # Реализация задания по формированию стратегии тестирования и автотестов API
 
 ## Стратегия тестирования нового облачного функционала
-На основании [требованиий](https://github.com/QACloudCamp/test-assignment) описана стратегия - см.файл [ts_qacc_strategy.md](https://).
+На основании [требованиий](https://github.com/QACloudCamp/test-assignment) описана стратегия - см.файл [ts_qacc_strategy.md](https://github.com/tanyashipunova/QA-docs/blob/main/qacc2023/ts_qacc_strategy.md).
 
 ## Проектирование автоматизированного тестирования  API
 Существует два подхода к проектированию автотестов:
