@@ -37,5 +37,5 @@ ADB, API, JSON, XML, Python, PostgreSQL, Postman, DevTools, Docker, Swagger, Pow
 - Решила задачи машинного обучения, провела исследовательский анализ данных с помощью библиотек pandas, numpy, scipy.stats, scikit-learn, matplotlib, seaborn
 
 **Образование**<br>
-Исследователь (аспирантура) | Экономический вуз | 2019
+[Исследователь](https://www.researchgate.net/profile/Tatiana_Shipunova) (аспирантура) | Экономический вуз | 2019
 <hr>
