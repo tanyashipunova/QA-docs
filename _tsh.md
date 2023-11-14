@@ -23,7 +23,7 @@ ADB, API, JSON, XML, Python, PostgreSQL, Postman, DevTools, Docker, Swagger, Pow
 - Составила [набор тест-кейсов](https://github.com/tanyashipunova/QA-docs/wiki/A-set-of-test-cases-for-the-online-shop) на языке разметки Markdown для тестирования интернет-магазина
 - Составляю баг-репорты в баг-трекере в качестве бета-тестировщика на краудтестинговой платформе
 
-Продуктовый аналитик | Фриланс | 01.2021 - 12.2022
+[Продуктовый аналитик](https://tanyashipunova.github.io/mypotfolio.html) | Фриланс | 01.2021 - 12.2022
 - Исследовала рынок e-commerce по открытым данным и отчетам специализированных агентств
 - Описала бизнес-модель существующего продукта и нового MVP по шаблону Lean Canvas
 - Приоритезировала гипотезы по фичам методами RICE/ICE
